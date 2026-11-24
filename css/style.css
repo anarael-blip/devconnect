@@ -6,16 +6,26 @@ text-align: left;
 justify-content: space-between;
 height: 80px;
 font-family: Arial, Helvetica, sans-serif;
-font-weight: 26px;
+font-weight: bold;
 }
 
 div {
     text-align: end;
     justify-content: space-between;
-    
-font-weight: 16px;
 
 
+}
 
+body {
+    color: #163A5F;
+    min-height: 350px;
+    align-items: end;
+}
 
+p
+{
+    text-align: left;
+    color: #F5A623;
+    height: 14px;
+    font-weight: bold;
 }
