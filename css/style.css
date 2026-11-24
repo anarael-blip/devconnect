@@ -17,7 +17,7 @@ div {
 }
 
 body {
-    color: #163A5F;
+    background-color: #163A5F;
     min-height: 350px;
     align-items: end;
 }
@@ -27,5 +27,10 @@ p
     text-align: left;
     color: #F5A623;
     height: 14px;
+    font-weight: bold;
+}
+h1 {
+    color: #e7ecf1;
+    height: 40px;
     font-weight: bold;
 }
